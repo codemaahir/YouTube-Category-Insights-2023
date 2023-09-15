@@ -8,4 +8,4 @@ Whether you're a content creator seeking inspiration or a data enthusiast intrig
 
 Note: There is a lot more that can be found using the dataset which I have used. But my analysis is based on small questions as of now, to keep things simple. 
 
-The dataset that is used has been taken from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023), and is not my own. All credits for the collections and compilation of this dataset goes to the respective kaggle member.
+The dataset that is used has been taken from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023), and is not my own. All credits for the collections and compilation of this dataset goes to the respective kaggle user.
