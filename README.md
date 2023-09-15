@@ -1,3 +1,5 @@
+# YouTube-Category-Insights-2023
+
 In the ever-evolving realm of online video content, YouTube stands as a global giant, providing a platform for creators to share their creativity with a vast and diverse audience. This notebook is dedicated to the analysis of YouTube in the year 2023, with a particular focus on unraveling the mysteries of genre/category popularity.
 
 As we journey through the data, we aim to discover which video genres have garnered the most attention and engagement from viewers in the past year. Through data-driven exploration and visualization, we will highlight the genres that have thrived and explore the factors contributing to their success.
