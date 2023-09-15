@@ -1,6 +1,7 @@
 # YouTube-Category-Insights-2023
 
 Here is the report: https://bit.ly/3RmLQu0
+Here is the Notebook: [Notebook Link](https://github.com/codemaahir/YouTube-Category-Insights-2023/blob/master/yt_insights.ipynb).
 
 In the ever-evolving realm of online video content, YouTube stands as a global giant, providing a platform for creators to share their creativity with a vast and diverse audience. This notebook is dedicated to the analysis of YouTube in the year 2023, with a particular focus on unraveling the mysteries of genre/category popularity.
 
